@@ -1,6 +1,7 @@
 # Personal-Goal-Tracker
 I've been trying to meet my goals, and I've created a system that works fairly well for me after being disappointed with what was available elsewhere. 
-Other programs tend to be plagued by bloat, annoying set-up, aggressive in-app purchases, etc.
+So, I want to make a program that will match the system I've been using in my head, as well as correct the features I've seen in some other applications.
+Other programs tend to be plagued by bloat, annoying set-up, aggressive in-app purchases, poor UI or instructions, etc.
 
 Also, from a desgin point of view, each app I've tried tends to be focused on just "goals" or "tasks", rather than both. Ideally you set a goal and then use tasks to achieve that goal.
 For example, if my "goal" was to lose weight, a "task" would be to exercise. Speaking of, another problem with goal-tracking apps is that they are usually hyper-focused on certain things.
