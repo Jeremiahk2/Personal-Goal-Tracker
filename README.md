@@ -1,4 +1,4 @@
-# Personal-Goal-Tracker
+# Personal-Goal-Tracker Application
 I've been trying to meet my goals, and I've created a system that works fairly well for me after being disappointed with what was available elsewhere. 
 So, I want to make a program that will match the system I've been using in my head, as well as correct the features I've seen in some other applications.
 Other programs tend to be plagued by bloat, annoying set-up, aggressive in-app purchases, poor UI or instructions, etc.
